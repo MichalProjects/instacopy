@@ -4,8 +4,8 @@ A new Flutter project.
 Instagram App- Works on Android, iOS & Web
 
 # Tech Used
-Server: Firebase Auth, Firebase Storage, Firebase Firestore
-#Client: Flutter, Provider
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore/n
+**Client**: Flutter, Provider
 # Screenshots
 Client: Flutter, Provide
 ![Screenshot_20231128_151043](https://github.com/MichalProjects/instacopy/assets/113103424/0980c15f-5072-45a9-adbe-e04ea2776ac4)
